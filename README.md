@@ -1,9 +1,9 @@
 # 🎓 Udemy Clone Website
 
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-green)
+![HTML]
+![CSS]
+![Status]
+![License]
 
 A **Udemy-inspired course platform UI clone** built using **HTML5 and CSS3**.  
 This project replicates the layout and visual design of an online learning platform to practice **front-end development, layout structuring, and responsive styling**.
