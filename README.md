@@ -5,6 +5,12 @@ This project replicates the layout and visual design of an online learning platf
 
 ---
 
+## 📌 Demo
+
+🔗 Live Demo: *(Add your website link here if hosted)*
+
+
+---
 
 ## 🚀 Features
 
@@ -13,7 +19,6 @@ This project replicates the layout and visual design of an online learning platf
 - 🏷 **Course categories section**
 - ⭐ **Featured courses display**
 - 📱 **Responsive layout**
-
 
 ---
 
@@ -57,6 +62,24 @@ This project helped me practice:
 - Add **user authentication**
 - Connect to a **backend API**
 - Improve **mobile responsiveness**
+
+---
+
+## 💻 Installation
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/udemy-clone.git
+
+# Open the project folder
+cd udemy-clone
+
+# Open index.html in your browser
+```
+
+---
 
 ---
 
