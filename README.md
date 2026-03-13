@@ -1,10 +1,5 @@
 # 🎓 Udemy Clone Website
 
-![HTML]
-![CSS]
-![Status]
-![License]
-
 A **Udemy-inspired course platform UI clone** built using **HTML5 and CSS3**.  
 This project replicates the layout and visual design of an online learning platform to practice **front-end development, layout structuring, and responsive styling**.
 
