@@ -7,7 +7,7 @@ This project replicates the layout and visual design of an online learning platf
 
 ## 📌 Demo
 
-🔗 Live Demo: *(Add your website link here if hosted)*
+🔗 Live Demo: *(https://kishore2690.github.io/udemy-app-clone)*
 
 
 ---
