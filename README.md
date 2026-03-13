@@ -13,8 +13,7 @@ This project replicates the layout and visual design of an online learning platf
 - 🏷 **Course categories section**
 - ⭐ **Featured courses display**
 - 📱 **Responsive layout**
-- 🧭 Clean and organized **UI design**
-- 📄 **Footer with useful links**
+
 
 ---
 
